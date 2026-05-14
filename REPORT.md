@@ -51,7 +51,7 @@ The server is ready for use with Gemini CLI.
 
 **Setup Command:**
 ```bash
-export GEMINI_API_KEY="AIzaSyDw06iPDrC4Be6-q7L7kQSSJgcE7LErlrY"
+export GEMINI_API_KEY="
 gemini mcp add sqlite-lab python implementation/mcp_server.py --description "SQLite lab FastMCP server" --timeout 10000
 ```
 
